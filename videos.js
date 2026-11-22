@@ -9,8 +9,8 @@ window.SERIES_PLAYLIST = ""; // 系列播放清單網址（公開或不公開後
 window.SERIES_TRAILER = "";  // 系列前導片 ID（延續型系列）
 
 window.VIDEO_LINKS = {
-  u01: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
-  u02: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
+  u01: { youtube: "9LL5YDU0hM0", mp4: "", duration: "16:14", sections: [0, 91.7, 203.3, 338.2, 453.4, 574.6, 733.2, 781, 886.3], noVoice: "", short: "" },
+  u02: { youtube: "jc44CqnxIAc", mp4: "", duration: "15:38", sections: [0, 84.3, 150.5, 275.6, 405.8, 492.1, 620.9, 749.7, 843.3], noVoice: "", short: "" },
   u03: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
   u04: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
   u05: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
